@@ -1,4 +1,0 @@
-[shift][backspace][backspace][backspace][backspace][backspace][backspace][backspace][ctrl_l][backspace][backspace][backspace][backspace][esc][esc][alt_l]	[shift][shift][shift][shift][shift][shift][shift][shift][shift][shift][shift][shift][shift][shift][shift][shift][shift][shift][shift][shift][shift][shift][shift][shift][shift][shift][shift][shift][shift][ctrl_l][ctrl_l][ctrl_l][alt_l]	[alt_l]	[alt_l]	[ctrl_l][alt_l]	[alt_l]	[shift][ctrl_l][ctrl_l][ctrl_l][ctrl_l][ctrl_l][ctrl_l][ctrl_l][ctrl_l][ctrl_l][ctrl_l][ctrl_l][alt_l]	[alt_l]	git init [backspace][backspace][backspace][backspace][backspace]init
-git push
-[alt_l]	[alt_l]		[alt_l]	[alt_l]		git comi[backspace]mit -m [shift]""[left]update k[backspace]logger
-git add .
